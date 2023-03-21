@@ -1,0 +1,17 @@
+.container{
+width: 500px;
+margin: 20px auto;
+text-align: center;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  table{
+margin: 0 auto;
+text-align: center;
+margin-top: 50px;
+  }
